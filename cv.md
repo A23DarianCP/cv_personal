@@ -76,4 +76,4 @@
 
 ---
 
-![Muestra de trabajo](imagen.jpg)
+![Muestra de trabajo](imagen.png)
