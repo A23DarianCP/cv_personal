@@ -41,8 +41,7 @@
 
 ## Datos de Interés
 
-- Carnet de conducir (clase B) con vehículo personal.
-- Gran interés autodidacta por aprender nuevos lenguajes de programación.
+- **Carnet de conducir (clase B):** [x] Sí
 
 ---
 
@@ -77,3 +76,8 @@
 ---
 
 ![Muestra de trabajo](imagen.png)
+
+## Mis Proyectos
+
+- **Repositorio de ejemplo de código:** [Mi repositorio en GitHub](https://github.com/DarianCP/mi-repositorio)
+---
