@@ -79,5 +79,5 @@
 
 ## Mis Proyectos
 
-- **Repositorio de ejemplo de código:** [Mi repositorio en GitHub](https://github.com/DarianCP/mi-repositorio)
+- **Repositorio de ejemplo de código:** [Mi repositorio en GitHub](https://github.com/A23DarianCP)
 ---
